@@ -7,3 +7,7 @@
 ## Esquema do projeto
 
 ![Esquema do projeto](esquema_projeto.jpg)
+
+## Projeto no tinkercad
+
+https://www.tinkercad.com/things/bqfWWQWUI0B
