@@ -1,8 +1,8 @@
-# Projeto Arduíno para piscar o led incorporado v1.
+# Projeto Arduíno mais simples
 
 ## Contextualização
 
-- Projeto Arduíno que acende o LED incorporado(LED_BUILTIN) e o faz piscar.<br>
+- Neste experimento faremos com que o LED embutido vinculado ao pino digital 13 (pino digital incorporado LED_BUILTIN = 13) pisque. Este é o experimento  mais simples que se poder fazer com o Arduíno.
 
 ## Esquema do projeto
 
