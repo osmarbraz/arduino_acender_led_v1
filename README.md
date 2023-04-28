@@ -8,6 +8,6 @@
 
 ![Esquema do projeto](esquema_projeto.jpg)
 
-## Projeto no tinkercad
+## Projeto no Tinkercad
 
 https://www.tinkercad.com/things/bqfWWQWUI0B
