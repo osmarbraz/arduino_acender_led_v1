@@ -1,5 +1,5 @@
 /*
- * Acende o LED incorporado(LED_BUILTIN) e o faz piscar
+ * Acende o LED incorporado(LED_BUILTIN) e o faz piscar.
  * 
  */
 
